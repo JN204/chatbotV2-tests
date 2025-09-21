@@ -1,0 +1,11 @@
+# Not all libraries are used here, mainly only using streamlit, os, requests, and dotenv for now until further progress.
+streamlit
+pypdf
+tiktoken
+python-dotenv
+langchain
+langchain-community
+langchain-openai
+PyPDF2
+sentence-transformers
+requests
